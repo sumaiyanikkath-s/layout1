@@ -1,0 +1,262 @@
+.header .wrapper
+ {
+width:80%;
+margin:auto;
+ }
+.banner .wrapper
+ {
+width:80%;
+margin:auto;
+ }
+.logo .wrapper
+ {
+width:80%;
+margin:auto;
+ }
+.portfolio .wrapper
+ {
+width:80%;
+margin:auto;
+ }
+.contact .wrapper
+ {
+width:80%;
+margin:auto;
+ }
+.team .wrapper
+ {
+width:80%;
+margin:auto;
+ }
+.policy .wrapper
+ {
+width:80%;
+margin:auto;
+ }
+
+.header
+{
+	background-color:aqua;
+	height:120px;
+}
+.header-fc
+{ 
+	
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .header-logo
+{
+	background-color:plum;
+	width:169px;
+	height:68px;
+	margin-top:5px;
+}
+.header .header-fc .header-navi
+{
+	background-color:plum;
+	width:473px;
+	height:68px;
+	margin-top:5px;
+}
+.banner
+{
+	background-color:gray;
+	height:681px;
+}
+.banner .banner-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	margin-top:150px;
+}
+.banner .banner-fc .bannera
+{
+	background-color:lightskyblue;
+	height:66px;
+	width:90px;
+	margin-top:100px;
+}
+.logo
+{
+	background-color:Lightseagreen;
+	height:378px;
+	
+}
+.logo .logo-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.logo .logo-fc .logoa
+{
+	background-color:gray;
+	height:66px;
+	width:90px;
+	margin-top:100px;
+}
+.logo .logo-fc .logob
+{
+	background-color:pink;
+	height:66px;
+	width:90px;
+	margin-top:100px;
+}
+.logo .logo-fc .logoc
+{
+	background-color:lightskyblue;
+	height:66px;
+	width:90px;
+	margin-top:100px;
+}
+.portfolio
+{
+	background-color:lightsteelblue;
+	height:1564px;
+}
+.portfolio .portfolio-fc
+{
+	
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.portfolio .portfolio-fc .boxa
+{
+	background-color:lightskyblue;
+	height:250px;
+	width:280px;
+	margin-top:100px;
+}
+.portfolio .portfolio-fc .boxb
+{
+	background-color:plum;
+	height:400px;
+	width:280px;
+	margin-top:100px;
+
+}
+.portfolio .portfolio-fc .boxc
+{
+	background-color:silver;
+	height:250px;
+	width:280px;
+	margin-top:100px;
+}
+.portfolio .portfolio-fc .boxd
+{
+	background-color:green;
+	height:320px;
+	width:280px;
+	margin-top:100px;
+}
+.portfolio .portfolio-fc .boxe
+{
+	background-color:pink;
+	height:230px;
+	width:280px;
+	margin-top:100px;
+}
+.portfolio .portfolio-fc .boxf
+{
+	background-color:silver;
+	height:300px;
+	width:280px;
+	margin-top:100px;
+	
+}
+.portfolio .portfolio-fc .boxg
+{
+	background-color:white;
+	height:230px;
+	width:280px;
+	margin-top:100px;
+}
+.portfolio .portfolio-fc .boxh
+{
+	background-color:pink;
+	height:200px;
+	width:280px;
+	margin-top:100px;
+}
+.portfolio .portfolio-fc .boxi
+{
+	background-color:yellow;
+	height:430px;
+	width:280px;
+	margin-bottom:40px;
+	margin-top:100px;
+}
+.contact
+{
+	background-color:LightSkyBlue;
+	height:440px;
+
+}
+.contact .contact-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	flex-direction:row;
+	
+}
+.contact .contact-fc .contact-heading
+{
+	width:100%;
+	margin-top:70px;
+	text-align:center;
+	height:50px;
+}
+.contact .contact-fc .contact-email
+{
+	margin-top:50px;
+	width:180px;
+	height:100px;
+	background-color:yellow;
+	text-align:center;
+}
+.contact .contact-fc .contact-mobile
+{
+	height:100px;
+	margin-top:50px;
+	width:180px;
+	background-color: red;
+	text-align:center;
+}
+
+.boxx
+{
+	background-color:green;
+	height:60px;
+	width:60px;
+	margin-top:50px;
+	padding:30px;
+	margin-left:200px;
+	
+}
+.boxy
+{
+	background-color:gray;
+	height:60px;
+	width:60px;
+	margin-top:50px;
+	margin-left:90px;
+	padding:30px;
+	margin-right:500px;
+}
+.team
+{
+	background-color:Tan;
+	height:374px;
+}
+.policy
+{
+	background-color:LightGrey;
+	height:156px;
+}
+
+
